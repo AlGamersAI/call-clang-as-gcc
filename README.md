@@ -1,0 +1,1 @@
+# call-clang-as-gcc
